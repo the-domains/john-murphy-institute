@@ -1,0 +1,28 @@
+name: John Murphy Institute
+favicon: null
+layout_spectrum: 0.04439572407864034
+typography_spectrum: 0.26466173958033323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9332821294665337
+  lightness: 0.7770712831988931
+  saturation: 0.6437325363513082
+  rhythmicContrast: 0.9585318947210908
+purpose: []

@@ -1,7 +1,7 @@
 name: John Murphy Institute
 favicon: null
-layout_spectrum: 0.04439572407864034
-typography_spectrum: 0.29805
+layout_spectrum: 0.95091
+typography_spectrum: 0.29638
 title: John Murphy Institute for At-Risk Plush
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#000000'
     - '#00ffff'
   brandStrength: 0.9332821294665337
-  lightness: 0.7770712831988931
+  lightness: 0.5
   saturation: 0.6437325363513082
-  rhythmicContrast: 0.9585318947210908
+  rhythmicContrast: 0.25
 purpose: []

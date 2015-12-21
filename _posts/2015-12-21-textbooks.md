@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: Recommended Reading
-datePublished: '2015-12-21T15:01:12.086Z'
-dateModified: '2015-12-21T15:00:55.110Z'
+datePublished: '2015-12-21T15:03:36.396Z'
+dateModified: '2015-12-21T15:03:31.930Z'
 title: Textbooks
 author: []
+sourcePath: _posts/2015-12-21-textbooks.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-21-textbooks.md
-published: true
 url: textbooks/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72a47977-12e4-4e31-ace4-3d49a2140e4c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c492621-ef00-4579-8610-cc74fb849f34.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f089439f-c427-451d-addf-47c9d84fa9b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94e83444029053b1d2db13a639e223dca04ff0a5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ed635dceaf6e08f73543033f3e0f804ffd8cb9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f07dd788bf870c08d44e8daf7eab41c236e36cd.jpg)
 
 Find all of these items and more [here][0].
 

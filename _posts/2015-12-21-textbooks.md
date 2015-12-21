@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Recommended reading
-datePublished: '2015-12-21T14:40:31.156Z'
-dateModified: '2015-12-21T14:40:13.433Z'
+description: Recommended Reading
+datePublished: '2015-12-21T15:01:12.086Z'
+dateModified: '2015-12-21T15:00:55.110Z'
 title: Textbooks
 author: []
 authors: []
@@ -19,12 +19,13 @@ publisher:
 sourcePath: _posts/2015-12-21-textbooks.md
 published: true
 url: textbooks/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c8ca61-cd4f-4337-be4b-af382b3b17dd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e54209e-3371-44d4-9cbb-aebcc5f126f5.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65f2767b-23af-49ac-bb6b-481f8aa33afb.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fce3dfb-a43b-4e3c-a495-f355320303a0.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcfa2095-e6f0-430b-9322-10bff4852ec4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78f126ce-9093-4cde-8da7-739d1e5e7212.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72a47977-12e4-4e31-ace4-3d49a2140e4c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c492621-ef00-4579-8610-cc74fb849f34.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f089439f-c427-451d-addf-47c9d84fa9b3.jpg)
+
+Find all of these items and more [here][0].
+
+[0]: http://www.amazon.com/John-Murphy/e/B001K8GFA0/ref=sr_ntt_srch_lnk_7?qid=1450710010&sr=1-7

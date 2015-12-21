@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[John Murphy Institute for At-Risk Plush]]></title>
         <description><![CDATA[John Murphy Institute for At-Risk Plush]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://johnmurphy.institute/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 16:34:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 16:37:38 GMT</lastBuildDate>
+        <atom:link href="http://johnmurphy.institute/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.youtube.com/watch?v=b2zR3YAxCMA</link>
+            <guid isPermaLink="false">d61a9578-58a3-4f72-bd2d-caa4cb2be6f0</guid>
+            <pubDate>Mon, 21 Dec 2015 16:37:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://youtu.be/b2zR3YAxCMA</p>]]></description>
-            <link>undefined37079abf-9f26-464e-bc44-5c2345bfbff0/index.html</link>
+            <link>http://johnmurphy.institute/37079abf-9f26-464e-bc44-5c2345bfbff0/index.html</link>
             <guid isPermaLink="false">37079abf-9f26-464e-bc44-5c2345bfbff0</guid>
             <pubDate>Mon, 21 Dec 2015 16:34:25 GMT</pubDate>
         </item>

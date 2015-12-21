@@ -16,8 +16,8 @@ keywords:
   - afterschool
   - dealsgift
 description: Online shopping from a great selection at Books Store.
-datePublished: '2015-12-21T19:33:49.962Z'
-dateModified: '2015-12-21T19:33:41.480Z'
+datePublished: '2015-12-21T19:37:19.567Z'
+dateModified: '2015-12-21T19:37:14.063Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Books by John</h1><p>Online shopping from a great selection at Books Store.</p><img src="https://images-na.ssl-images-amazon.com/images/I/51cxMBiUGwL._UY250_.jpg" /></article>
+<article style=""><h1>John Murphy's Books</h1><p>Find all of John Murphy's books at this link. </p><img src="https://images-na.ssl-images-amazon.com/images/I/51cxMBiUGwL._UY250_.jpg" /></article>

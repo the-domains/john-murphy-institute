@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Start here. '
-datePublished: '2015-12-21T15:08:40.992Z'
-dateModified: '2015-12-21T15:08:36.550Z'
+datePublished: '2015-12-21T17:40:27.266Z'
+dateModified: '2015-12-21T17:40:22.899Z'
 title: "Welcome to the Institute.\_"
 author: []
 sourcePath: _posts/2015-12-21-john-murphy-institute-for-at-risk-plush.md

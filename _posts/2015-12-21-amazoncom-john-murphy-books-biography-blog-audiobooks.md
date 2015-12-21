@@ -16,12 +16,12 @@ keywords:
   - afterschool
   - dealsgift
 description: Online shopping from a great selection at Books Store.
-datePublished: '2015-12-21T19:37:19.567Z'
-dateModified: '2015-12-21T19:37:14.063Z'
+datePublished: '2015-12-21T19:41:24.984Z'
+dateModified: '2015-12-21T19:41:17.560Z'
 author: []
 related: []
 app_links: []
-title: Textbooks
+title: Books
 sourcePath: _posts/2015-12-21-amazoncom-john-murphy-books-biography-blog-audiobooks.md
 published: true
 authors: []

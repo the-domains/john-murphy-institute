@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Recommended Reading
-datePublished: '2015-12-21T15:13:49.296Z'
-dateModified: '2015-12-21T15:13:45.302Z'
+datePublished: '2015-12-21T15:15:58.448Z'
+dateModified: '2015-12-21T15:15:53.837Z'
 title: Textbooks
 author: []
 sourcePath: _posts/2015-12-21-textbooks.md

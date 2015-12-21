@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Recommended Reading
-datePublished: '2015-12-21T15:03:36.396Z'
-dateModified: '2015-12-21T15:03:31.930Z'
+datePublished: '2015-12-21T15:05:35.355Z'
+dateModified: '2015-12-21T15:05:27.480Z'
 title: Textbooks
 author: []
 sourcePath: _posts/2015-12-21-textbooks.md
@@ -19,9 +19,10 @@ publisher:
   url: null
   favicon: null
 url: textbooks/index.html
-_type: Article
+_type: WebPage
 
 ---
+# Textbooks
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/94e83444029053b1d2db13a639e223dca04ff0a5.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ed635dceaf6e08f73543033f3e0f804ffd8cb9.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5f07dd788bf870c08d44e8daf7eab41c236e36cd.jpg)

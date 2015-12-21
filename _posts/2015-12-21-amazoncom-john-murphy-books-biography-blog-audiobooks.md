@@ -16,8 +16,8 @@ keywords:
   - afterschool
   - dealsgift
 description: Online shopping from a great selection at Books Store.
-datePublished: '2015-12-21T19:41:24.984Z'
-dateModified: '2015-12-21T19:41:17.560Z'
+datePublished: '2015-12-21T22:40:12.845Z'
+dateModified: '2015-12-21T22:38:34.869Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>John Murphy's Books</h1><p>Find all of John Murphy's books at this link. </p><img src="https://images-na.ssl-images-amazon.com/images/I/51cxMBiUGwL._UY250_.jpg" /></article>
+![Stupid Sock Creatures: Making Quirky, Lovable Figures from Cast-off Socks](https://images-na.ssl-images-amazon.com/images/I/51pjeMd1n5L._UX160_.jpg)

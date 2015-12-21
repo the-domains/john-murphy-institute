@@ -4,7 +4,7 @@
         <description><![CDATA[John Murphy Institute for At-Risk Plush]]></description>
         <link>http://johnmurphy.institute/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 13:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Dec 2015 13:16:06 GMT</lastBuildDate>
         <atom:link href="http://johnmurphy.institute/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[John Murphy Institute for At-Risk Plush ]]></title>
@@ -12,13 +12,6 @@
             <link>http://johnmurphy.institute/john-murphy-institute-for-at-risk-plush/index.html</link>
             <guid isPermaLink="false">59bd2517-6809-4e82-a12c-302890639aa1</guid>
             <pubDate>Mon, 21 Dec 2015 13:15:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/522e67f3-a03f-42c8-abaa-0851fcb43528.png" alt="" title="">]]></description>
-            <link>http://johnmurphy.institute/afbc1756-23d3-468a-9d10-034a0cdea6fa/index.html</link>
-            <guid isPermaLink="false">afbc1756-23d3-468a-9d10-034a0cdea6fa</guid>
-            <pubDate>Sat, 19 Dec 2015 09:33:10 GMT</pubDate>
         </item>
     </channel>
 </rss>

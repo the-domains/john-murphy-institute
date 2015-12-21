@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Start here. '
-datePublished: '2015-12-21T14:27:44.872Z'
-dateModified: '2015-12-21T14:27:34.278Z'
+datePublished: '2015-12-21T14:29:20.813Z'
+dateModified: '2015-12-21T14:29:15.980Z'
 title: "John Murphy Institute for At-Risk Plush\_"
 author: []
 sourcePath: _posts/2015-12-21-john-murphy-institute-for-at-risk-plush.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: john-murphy-institute-for-at-risk-plush/index.html
-_type: Article
+_type: Blurb
 
 ---
 # John Murphy Institute for At-Risk Plush ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80430fde-6f4f-42a4-affc-887df4190958.JPG)

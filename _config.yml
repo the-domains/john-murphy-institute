@@ -40,7 +40,7 @@ navigation:
   - name: Blarg
     id: 1c8b29f2-bad7-4924-929f-050df4f4de98
     type: content
-  - name: John's Books
+  - name: Books
     url: >-
       https://www.amazon.com/John-Murphy/e/B001K8GFA0/ref=dp_byline_cont_pop_book_1
     type: external

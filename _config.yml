@@ -37,14 +37,14 @@ navigation:
   - name: About John
     id: 59bd2517-6809-4e82-a12c-302890639aa1
     type: content
-  - name: Insta
-    url: 'https://www.instagram.com/johnmurphyinstitute/'
-    type: external
   - name: Books
     id: a638295b-80dc-4d11-a7d4-1f19286e1dab
     type: content
   - name: Social
     id: 3c9597d2-8832-4418-9c58-675d4cd39172
+    type: content
+  - name: Shop
+    id: 96346633-c43d-4039-a85e-a09a58efdb77
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc68921-da6c-4761-80ee-b8f90cf22e41.png

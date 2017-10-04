@@ -1,20 +1,6 @@
-name: John Murphy Institute
-favicon: null
-layout_spectrum: 0.49513
-typography_spectrum: 0.672
-title: John Murphy Institute for At-Risk Plush
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.9768559365803468
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +8,72 @@ color:
     - '#295b9c'
     - '#6b80b4'
     - '#d3d7e9'
-  brandStrength: 1
-  lightness: 0.875
-  saturation: 0.1875
-  rhythmicContrast: 0.25
+  brandStrength: 0.026906556325162402
+  lightness: 0.9388761581758056
+  saturation: 0.865070108440843
+  rhythmicContrast: 0.8544356268936639
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7577357026102888
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: John Murphy
+  email: johnmurphy.institute@gmail.com
+  url: 'http://johnmurphy.institute'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/34d0e70a-007a-416b-9f4d-c763a3037f4d.png
+name: The Institute
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About John
+    id: 59bd2517-6809-4e82-a12c-302890639aa1
+    type: content
+  - name: Blarg
+    id: 1c8b29f2-bad7-4924-929f-050df4f4de98
+    type: content
+  - name: John's Books
+    url: >-
+      https://www.amazon.com/John-Murphy/e/B001K8GFA0/ref=dp_byline_cont_pop_book_1
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/johnmurphyinstitute/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc68921-da6c-4761-80ee-b8f90cf22e41.png
+title: John Murphy Institute
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7879862b-7343-4634-9c7a-691df77faf93.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7879862b-7343-4634-9c7a-691df77faf93.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: For At-Risk Plush
 purpose: []

@@ -40,9 +40,6 @@ navigation:
   - name: Insta
     url: 'https://www.instagram.com/johnmurphyinstitute/'
     type: external
-  - name: Bird
-    url: 'https://twitter.com/StupidCreatures'
-    type: external
   - name: Books
     id: a638295b-80dc-4d11-a7d4-1f19286e1dab
     type: content

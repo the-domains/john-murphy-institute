@@ -1,6 +1,6 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inLanguage: null
 keywords: []
 description: >-
@@ -11,8 +11,8 @@ description: >-
   youngsters who continue to add to the dimension of his life and change his
   perspective. John intends to marry his visual and plush arts background with
   his skills for counseling and mental health.
-datePublished: '2017-10-04T19:29:12.091Z'
-dateModified: '2017-10-04T19:29:11.703Z'
+datePublished: '2017-10-04T19:55:49.690Z'
+dateModified: '2017-10-04T19:55:47.966Z'
 title: This is John
 author:
   - name: ©John Murphy 2015
@@ -23,7 +23,8 @@ publisher: {}
 via: {}
 starred: false
 datePublishedOriginal: '2015-12-23T03:50:56.048Z'
-_type: Blurb
+url: this-is-john/index.html
+_type: Article
 
 ---
 # This is John

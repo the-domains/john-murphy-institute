@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'Here’s my twitter. '
-dateModified: '2017-10-04T20:43:33.430Z'
-datePublished: '2017-10-04T20:43:34.037Z'
+description: Here’s my twitter.
+dateModified: '2017-10-04T20:49:41.797Z'
+datePublished: '2017-10-04T20:49:42.483Z'
 title: Social Media. Ugh.
 author: []
 publisher: {}
@@ -15,9 +15,10 @@ _type: Blurb
 ---
 # Social Media. Ugh.
 
-Here's my [twitter][0]. 
+Here's my [twitter][0].
 
 Here's my [instagram.][1]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbd99e10-895b-4bb4-b930-9fc2b08a8327.jpg)
 
 [0]: https://twitter.com/StupidCreatures
 [1]: https://www.instagram.com/johnmurphyinstitute/

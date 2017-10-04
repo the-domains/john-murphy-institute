@@ -10,8 +10,8 @@ description: >-
   juvenile justice, there hasn’t been much room for new art in the past several
   years. That will change when school is over and I work towards my counseling
   licensure. Here is what I plan to have more of on the website:
-dateModified: '2017-10-04T22:31:49.415Z'
-datePublished: '2017-10-04T22:31:50.084Z'
+dateModified: '2017-10-04T22:33:02.976Z'
+datePublished: '2017-10-04T22:33:03.591Z'
 title: BLARG
 author: []
 publisher: {}

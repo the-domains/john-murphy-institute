@@ -11,8 +11,8 @@ description: >-
   youngsters who continue to add to the dimension of his life and change his
   perspective. John intends to marry his visual and plush arts background with
   his skills for counseling and mental health.
-datePublished: '2017-10-04T19:55:49.690Z'
-dateModified: '2017-10-04T19:55:47.966Z'
+datePublished: '2017-10-04T22:16:01.971Z'
+dateModified: '2017-10-04T22:16:01.030Z'
 title: This is John
 author:
   - name: ©John Murphy 2015

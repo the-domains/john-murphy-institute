@@ -34,7 +34,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About John
+  - name: About
     id: 59bd2517-6809-4e82-a12c-302890639aa1
     type: content
   - name: Social

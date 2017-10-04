@@ -11,7 +11,7 @@ description: >-
   youngsters who continue to add to the dimension of his life and change his
   perspective. John intends to marry his visual and plush arts background with
   his skills for counseling and mental health.
-datePublished: '2017-10-04T19:29:11.888Z'
+datePublished: '2017-10-04T19:29:12.091Z'
 dateModified: '2017-10-04T19:29:11.703Z'
 title: This is John
 author:

@@ -44,7 +44,7 @@ navigation:
     url: >-
       https://www.amazon.com/John-Murphy/e/B001K8GFA0/ref=dp_byline_cont_pop_book_1
     type: external
-  - name: Instagram
+  - name: Insta
     url: 'https://www.instagram.com/johnmurphyinstitute/'
     type: external
   - name: Bird

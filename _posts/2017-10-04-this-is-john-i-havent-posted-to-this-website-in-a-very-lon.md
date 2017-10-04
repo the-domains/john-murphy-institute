@@ -6,8 +6,8 @@ description: >-
   days and I should work on it. Instead I’m tinkering with this website and its
   AI software (thank you, Grid). Some things about this software confuse me, but
   so far so good. We will see what happens.
-dateModified: '2017-10-04T22:46:10.654Z'
-datePublished: '2017-10-04T22:46:11.443Z'
+dateModified: '2017-10-04T22:46:11.316Z'
+datePublished: '2017-10-04T22:46:11.652Z'
 title: BLARG
 author: []
 publisher: {}

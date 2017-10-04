@@ -15,8 +15,8 @@ description: >-
   for it.
 app_links: []
 title: Buy My Stuff
-datePublished: '2017-10-04T21:57:09.880Z'
-dateModified: '2017-10-04T21:57:09.056Z'
+datePublished: '2017-10-04T21:59:04.160Z'
+dateModified: '2017-10-04T21:59:03.733Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-04-giant-plush-dragon.md

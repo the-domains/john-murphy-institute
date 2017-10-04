@@ -43,6 +43,9 @@ navigation:
   - name: Shop
     id: 96346633-c43d-4039-a85e-a09a58efdb77
     type: content
+  - name: BLARG
+    id: 1c8b29f2-bad7-4924-929f-050df4f4de98
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc68921-da6c-4761-80ee-b8f90cf22e41.png
 title: John Murphy Institute

@@ -7,8 +7,8 @@ description: >-
   John Murphy is an artist and author, formerly of www.stupidcreatures.com. He
   is currently earning his master’s degree in mental health counseling, focusing
   on trauma therapies, and plans to continue serving at-risk kids.
-datePublished: '2017-10-04T23:42:00.803Z'
-dateModified: '2017-10-04T23:42:00.134Z'
+datePublished: '2017-10-04T23:44:57.148Z'
+dateModified: '2017-10-04T23:44:56.403Z'
 title: This is John
 author:
   - name: ©John Murphy 2015
@@ -25,6 +25,9 @@ _type: Article
 ---
 # This is John
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/36ff7c40d8ed0c87d65577bbf6ee98dcdb0cd7d8.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7fa91eb11b9d4fef39030e6aa66843ad/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1e0a71ba-fbd7-4f80-bf86-741ce26e1d04.jpg&x=0&y=0)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/038b9d2421f2bde799fa2b1a141e4408/croprotate.jpg?cropheight=4032&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc6241fbf-c39f-4952-b3d2-118d71922b40.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa80a38f-9167-4bf3-b80b-76e91c57bedc.jpg)
 
 John Murphy is an artist and author, formerly of www.stupidcreatures.com. He is currently earning his master's degree in mental health counseling, focusing on trauma therapies, and plans to continue serving at-risk kids.
 

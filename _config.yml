@@ -37,9 +37,6 @@ navigation:
   - name: About John
     id: 59bd2517-6809-4e82-a12c-302890639aa1
     type: content
-  - name: Blarg
-    id: 1c8b29f2-bad7-4924-929f-050df4f4de98
-    type: content
   - name: Books
     url: >-
       https://www.amazon.com/John-Murphy/e/B001K8GFA0/ref=dp_byline_cont_pop_book_1

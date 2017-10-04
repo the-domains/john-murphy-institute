@@ -15,8 +15,8 @@ description: >-
   for it.
 app_links: []
 title: Buy My Stuff
-datePublished: '2017-10-04T21:54:32.271Z'
-dateModified: '2017-10-04T21:54:31.837Z'
+datePublished: '2017-10-04T21:57:09.880Z'
+dateModified: '2017-10-04T21:57:09.056Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-04-giant-plush-dragon.md
@@ -30,7 +30,7 @@ _type: MediaObject
 ---
 # Buy My Stuff
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e05220edd444ab29c2a609f363ff8817/noop?input=https%3A%2F%2Fimages.landofnod.com%2Fis%2Fimage%2FLandOfNod%2FPlush_Giant_Dragon_GR_V2_2" /><h1>Giant Plush Dragon</h1><p>Shop Green Giant Stuffed Animal Dragon. This giant plush dragon may look ferocious, but you don't have to worry about it leveling any villages.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/379d1d0d4381b5100ec68c39029acb24a5565a57" /><h1>Giant Plush Dragon</h1><p>Shop Green Giant Stuffed Animal Dragon. This giant plush dragon may look ferocious, but you don't have to worry about it leveling any villages.</p></article>
 
 Look at me, everyone. I design for [Land of Nod][0] on the side. They started producing my stuff in 2011, and call me occasionally to do something else. This dragon was a surprise. I designed it for them roughly two years ago, and I was told it didn't get the green light. But I suppose now's the right time for it.
 
@@ -40,9 +40,11 @@ Thanks, Nod, and may the dragon make us both very happy!!
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4192508d3ed0c27889cde64bb8e2d9de904373.jpg" /><h1>John Murphy</h1><p>Visit Amazon.com's John Murphy Page and shop for all John Murphy books. Check out pictures, bibliography, and biography of John Murphy</p></article>
 
-This link will take you to my author page at Amazon.com. You'll find several books I wrote plus a really fun collaboration with illustrator [Liana Finck][1]. 
+This link will take you to my author page at Amazon.com. You'll find several books I wrote plus a really fun collaboration with illustrator [Liana Finck][1].
 
-My Etsy page is old and dusty, and the contact information is likely all out of date, but you can click here. I'm adding it to this merch section just to be thorough. 
+https://www.etsy.com/shop/StupidCreatures
+
+My Etsy page is old and dusty, and the contact information is likely all out of date, but you can click here. I'm adding it to this merch section just to be thorough.
 
 [0]: https://www.landofnod.com/giant-plush-dragon/s207609?st=john%20murphy
 [1]: https://www.newyorker.com/contributors/liana-finck

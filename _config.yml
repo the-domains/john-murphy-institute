@@ -47,6 +47,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/johnmurphyinstitute/'
     type: external
+  - name: Bird
+    url: 'https://twitter.com/StupidCreatures'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bc68921-da6c-4761-80ee-b8f90cf22e41.png
 title: John Murphy Institute

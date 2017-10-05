@@ -12,8 +12,8 @@ description: >-
   ferocious, but you don't have to worry about it leveling any villages.
 app_links: []
 title: Buy My Stuff
-datePublished: '2017-10-05T01:19:02.920Z'
-dateModified: '2017-10-05T01:19:02.022Z'
+datePublished: '2017-10-05T01:20:47.866Z'
+dateModified: '2017-10-05T01:20:47.130Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-04-giant-plush-dragon.md

@@ -1,21 +1,16 @@
 ---
 author: []
 related: []
-publisher:
-  url: 'https://www.landofnod.com'
-  name: The Land of Nod
-  favicon: 'https://www.landofnod.com/favicon.ico'
-  domain: www.landofnod.com
+publisher: {}
 keywords: []
 description: >-
-  At the moment, there are no original items for sale, nor is John taking custom
-  orders. He’s got a degree to earn and a full time job that he adores. But if
-  you loved what you saw at the old website, you can keep the embers glowing by
-  checking out these links. 
+  At the moment, John has a degree to earn and a full time job that he adores,
+  so new and custom works are on pause. But if you loved what you saw at the old
+  website, you can keep the embers glowing by checking out these links!
 app_links: []
 title: Shop
-datePublished: '2017-10-05T01:44:18.595Z'
-dateModified: '2017-10-05T01:44:18.071Z'
+datePublished: '2017-10-05T09:49:32.698Z'
+dateModified: '2017-10-05T09:49:32.074Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-04-giant-plush-dragon.md
@@ -29,7 +24,7 @@ _type: MediaObject
 ---
 # Shop
 
-At the moment, there are no original items for sale, nor is John taking custom orders. He's got a degree to earn and a full time job that he adores. But if you loved what you saw at the [old website][0], you can keep the embers glowing by checking out these links. 
+At the moment, John has a degree to earn and a full time job that he adores, so new and custom works are on pause. But if you loved what you saw at the [old website][0], you can keep the embers glowing by checking out these links!
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/379d1d0d4381b5100ec68c39029acb24a5565a57" /><h1>Giant Plush Dragon</h1><p>Shop Green Giant Stuffed Animal Dragon. This giant plush dragon may look ferocious, but you don't have to worry about it leveling any villages.</p></article>
 

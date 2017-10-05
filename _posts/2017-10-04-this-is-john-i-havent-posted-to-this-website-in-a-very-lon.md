@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 4, 2017'
-dateModified: '2017-10-05T13:56:55.480Z'
-datePublished: '2017-10-05T13:56:56.200Z'
+dateModified: '2017-10-05T13:57:03.254Z'
+datePublished: '2017-10-05T13:57:04.789Z'
 title: BLARG
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 # BLARG
 
 October 4, 2017
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ea5445e-3cd3-4cf9-8871-9aa4745de412.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fda26822b5eff8d8768c78b27d8408eb/croprotate.jpg?cropheight=3024&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2ea5445e-3cd3-4cf9-8871-9aa4745de412.jpg&x=0&y=0)
 
 My intention was to make this page my news and updates page. But now that I've just designed my first "gallery," I now know that the more images I bring onto this page, the closer I draw to making it into a gallery as well (followed by a truckload of type). I must continue to see what [The Grid][0] can do for me. In the meantime, I have got to write the genogram paper I should have written yesterday. Not freaking out. Not at all. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3fda9ac83cbe08ffa8dd1127f7132856ae2098d.jpg)
 

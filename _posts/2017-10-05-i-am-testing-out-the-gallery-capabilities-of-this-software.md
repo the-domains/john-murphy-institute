@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   The help page of The Grid tells me that to create a gallery, all one must do
   is upload at least nine images. Well here are twelve. We shall see the
-  results. 
-dateModified: '2017-10-05T13:45:00.641Z'
-datePublished: '2017-10-05T13:45:01.168Z'
+  results.
+dateModified: '2017-10-05T13:50:25.021Z'
+datePublished: '2017-10-05T13:50:25.903Z'
 title: I am testing out the gallery capabilities of this software.
 author: []
 publisher: {}
@@ -21,10 +21,11 @@ _type: Article
 ---
 # I am testing out the gallery capabilities of this [software][0].
 
-The help page of The Grid tells me that to create a gallery, all one must do is upload at least nine images. Well here are twelve. We shall see the results. 
+The help page of The Grid tells me that to create a gallery, all one must do is upload at least nine images. Well here are twelve. We shall see the results.
 
 These are images I used for an easy project I designed for [Craft Camp][1] (Lark Crafts, 2015).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2166a702-e146-4484-bbbb-f5721c04bbc6.jpg)
+
+What I like about this gallery feature is that all the images are condensed into one place. What I don't like is that when you click on an image, you're taken to a new page where the images are displayed together again. I would rather this software allow thumbnails and expanded images. I must see what can be done. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2166a702-e146-4484-bbbb-f5721c04bbc6.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09157a20-6917-4c89-8eb1-d16078202042.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62802537-49d2-4b21-bfc2-b296c591f816.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dcc5fb2-f843-4aef-906c-115f99caca38.jpg)

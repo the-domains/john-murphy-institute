@@ -12,8 +12,8 @@ description: >-
   ferocious, but you don't have to worry about it leveling any villages.
 app_links: []
 title: Buy My Stuff
-datePublished: '2017-10-05T01:16:18.815Z'
-dateModified: '2017-10-05T01:16:17.955Z'
+datePublished: '2017-10-05T01:17:47.834Z'
+dateModified: '2017-10-05T01:17:46.705Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-04-giant-plush-dragon.md
@@ -31,4 +31,4 @@ _type: MediaObject
 
 ---
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4192508d3ed0c27889cde64bb8e2d9de904373.jpg" /><h1>John Murphy</h1><p>Visit Amazon.com's John Murphy Page and shop for all John Murphy books. Check out pictures, bibliography, and biography of John Murphy</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee4192508d3ed0c27889cde64bb8e2d9de904373.jpg" /><h1>John Murphy's Author Page</h1><p>Visit Amazon.com's John Murphy Page and shop for all John Murphy books. Check out pictures, bibliography, and biography of John Murphy</p></article>

@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'October 4, 2017'
-dateModified: '2017-10-05T13:57:03.254Z'
-datePublished: '2017-10-05T13:57:04.789Z'
+description: 'October 6, 2017'
+dateModified: '2017-10-06T14:50:09.007Z'
+datePublished: '2017-10-06T14:50:09.678Z'
 title: BLARG
 author: []
 publisher: {}
@@ -16,12 +16,19 @@ url: this-is-john-i-havent-posted-to-this-website-in-a-very-lon/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58df03cb-2cd5-40a7-8d52-f3a4bc46e77c.jpg)
+
 # BLARG
 
-October 4, 2017
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/fda26822b5eff8d8768c78b27d8408eb/croprotate.jpg?cropheight=3024&cropwidth=3024&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2ea5445e-3cd3-4cf9-8871-9aa4745de412.jpg&x=0&y=0)
+October 6, 2017
 
-My intention was to make this page my news and updates page. But now that I've just designed my first "gallery," I now know that the more images I bring onto this page, the closer I draw to making it into a gallery as well (followed by a truckload of type). I must continue to see what [The Grid][0] can do for me. In the meantime, I have got to write the genogram paper I should have written yesterday. Not freaking out. Not at all. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3fda9ac83cbe08ffa8dd1127f7132856ae2098d.jpg)
+I am on a break at my job. And I am looking to see if I can update the website using just my phone. So far the features appear to function, we will see what happens when I check out what I did on an actual computer.
+
+October 4, 2017
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a2b6a44cee7b1a2cdacb50ef0f98542c0b21a08.jpg)
+
+My intention was to make this page my news and updates page. But now that I've just designed my first "gallery," I now know that the more images I bring onto this page, the closer I draw to making it into a gallery as well (followed by a truckload of type). I must continue to see what [The Grid][0] can do for me. In the meantime, I have got to write the genogram paper I should have written yesterday. Not freaking out. Not at all.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3fda9ac83cbe08ffa8dd1127f7132856ae2098d.jpg)
 
 October 3, 2017
 

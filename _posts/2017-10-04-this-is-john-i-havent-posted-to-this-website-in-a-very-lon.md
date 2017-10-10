@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 10, 2017'
-dateModified: '2017-10-10T14:38:35.882Z'
-datePublished: '2017-10-10T14:38:36.923Z'
+dateModified: '2017-10-10T19:39:37.605Z'
+datePublished: '2017-10-10T19:39:38.232Z'
 title: BLARG
 author: []
 publisher: {}
@@ -21,39 +21,41 @@ _type: Article
 October 10, 2017
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/872ac8dc-5f2a-43b8-9f2b-cf049a849f9c.jpg)
 
-Here's a timeline that lead me from the [Stupid Creatures][0] to where I am now. 
+Here's a timeline that lead me from the [Stupid Creatures][0] to where I am now.
 
-2003 Started making sock monsters in Okland, CA, and peddling them from shop to shop. Got some coverage in Ready Made Magazine (now defunct, I guess). That led to some coverage in other magazines. [Stupidcreatures.com][0] went live. Started taking custom orders. Lark Books, now [Lark Crafts][1], caught wind of my efforts and offered me a craft book contract. 
+2003 Started making sock monsters in Okland, CA, and peddling them from shop to shop. Got some coverage in Ready Made Magazine (now defunct, I guess). That led to some coverage in other magazines. [Stupidcreatures.com][0] went live. Started taking custom orders. Lark Books, now [Lark Crafts][1], caught wind of my efforts and offered me a craft book contract.
 
-2004 Got really poor living off of sock monster income and odd jobs. Moved back home to North Carolina to write [Stupid Sock Creatures][2]. Got a studio in downtown Asheville. 
+2004 Got really poor living off of sock monster income and odd jobs. Moved back home to North Carolina to write [Stupid Sock Creatures][2]. Got a studio in downtown Asheville.
 
-2005 Stupid Sock Creatures came out. Started teaching classes and giving lectures nationwide. 
+2005 Stupid Sock Creatures came out. Started teaching classes and giving lectures nationwide.
 
 2006 TV spot on HGTV's That's Clever (now also defunct.. I must have the magic touch). Moved into a studio in [Asheville's River Arts District][3].
 
 2007 Started counseling kids as a one-on-one for a 5th grader with high-functioning autism. Continued making monsters for shows and sales. Still wasn't a living, but I kept trying.
 
-2008 Got my second book contract from Lark and started writing [Closet Monsters][4]. [Housing bubble burst][5], people got poor and stopped buying art. 
+2008 Got my second book contract from Lark and started writing [Closet Monsters][4]. [Housing bubble burst][5], people got poor and stopped buying art.
 
-2009 Income getting desperate, I kept making monsters, but started looking for other work in the counseling field. Was offered a contract for [Revelations and the Stupid Creatures][6], and began working on that book. 
+2009 Income getting desperate, I kept making monsters, but started looking for other work in the counseling field. Was offered a contract for [Revelations and the Stupid Creatures][6], and began working on that book.
 
-2010 Became a wilderness camp counselor. Life officially changed. Kids in need mattered more to me than art ever did. Closet Monsters hit the shelves. 
+2010 Became a wilderness camp counselor. Life officially changed. Kids in need mattered more to me than art ever did. Closet Monsters hit the shelves.
 
-2011 Became an intensive in-home counselor, working with kids and families in poverty-stricken rural areas in western NC. Landed book contract \#3, and started writing [Return of the Stupid Sock Creatures][7]. Began working with [Land of Nod ][8]on various toy lines. 
+2011 Became an intensive in-home counselor, working with kids and families in poverty-stricken rural areas in western NC. Landed book contract \#3, and started writing [Return of the Stupid Sock Creatures][7]. Began working with [Land of Nod ][8]on various toy lines.
 
-2012 Became a day treatment counselor for kids whose behaviors got them kicked out of school. More toy lines with Land of Nod. Return of the Stupid Sock Creatures hit the shelves. 
+2012 Became a day treatment counselor for kids whose behaviors got them kicked out of school. More toy lines with Land of Nod. Return of the Stupid Sock Creatures hit the shelves.
 
-2013 Promoted to lead day treatment teacher at my agency. Started thinking about grad school. More toy lines with Land of Nod. Worked with [Secret Agent 23 Skidoo][9] to pitch a cartoon property to Cartoon Network. 
+2013 Promoted to lead day treatment teacher at my agency. Started thinking about grad school. More toy lines with Land of Nod. Worked with [Secret Agent 23 Skidoo][9] to pitch a cartoon property to Cartoon Network.
 
-2014 Dad diagnosed with leukemia. Moved closer to where dad lives. Became a juvenile justice officer with NC's department of public safety. Became a godfather. 
+2014 Dad diagnosed with leukemia. Moved closer to where dad lives. Became a juvenile justice officer with NC's department of public safety. Became a godfather.
 
-2015 Became certified as a juvenile justice officer. 
+2015 Became certified as a juvenile justice officer.
 
-2016 Started my graduate degree with [Regent University][10] to become a mental health counselor. First biological nephew was born. 
+2016 Started my graduate degree with [Regent University][10] to become a mental health counselor. First biological nephew was born.
 
-2017 Working out how I want my career to look when I graduate. Dusting off the website. Still making monsters when I can. 
+2017 Working out how I want my career to look when I graduate. Dusting off the website. Still making monsters when I can.
 
-If you're curious about anything else, glean my [social media resources][11] or email me. 
+If you're curious about anything else, glean my [social media resources][11] or email me.
+
+    https://developers.facebook.com/docs/plugins/comments#configurator
 
 ---
 

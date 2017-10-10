@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 10, 2017'
-dateModified: '2017-10-10T19:39:37.605Z'
-datePublished: '2017-10-10T19:39:38.232Z'
+dateModified: '2017-10-10T19:41:18.600Z'
+datePublished: '2017-10-10T19:41:19.676Z'
 title: BLARG
 author: []
 publisher: {}
@@ -54,8 +54,6 @@ Here's a timeline that lead me from the [Stupid Creatures][0] to where I am now.
 2017 Working out how I want my career to look when I graduate. Dusting off the website. Still making monsters when I can.
 
 If you're curious about anything else, glean my [social media resources][11] or email me.
-
-    https://developers.facebook.com/docs/plugins/comments#configurator
 
 ---
 

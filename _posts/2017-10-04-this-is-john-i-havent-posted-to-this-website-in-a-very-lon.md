@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 12, 2017'
-dateModified: '2017-10-13T10:21:41.478Z'
-datePublished: '2017-10-13T10:21:42.401Z'
+dateModified: '2017-10-13T13:36:46.700Z'
+datePublished: '2017-10-13T13:36:47.491Z'
 title: BLARG
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ url: this-is-john-i-havent-posted-to-this-website-in-a-very-lon/index.html
 _type: Article
 
 ---
-# BLARG
+## BLARG
 
 October 12, 2017
 
@@ -26,7 +26,7 @@ Two of my [Land of Nod][0] dinosaur toys made it onto a [recent episode of Moder
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6da7fab-5eba-4bc1-8210-f4c63e134317.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90524880-ae4d-459e-8a68-ea0a35c06517.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6ed6e3-d9ba-40cd-b362-e7f1d6a3ae75.png)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e05007f38c3e37076d9c2af9f1dfbddd/croprotate.jpg?cropheight=1232&cropwidth=1801&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5ba04f37-ec38-4870-9545-bf6e161dfab1.jpg&x=0&y=57)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5909c65ddc5b284353eb77f63632b35237601dd1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3f8a29-3de0-4b0a-b72a-fe7f54ab7030.png)
 
 ---

@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 12, 2017'
-dateModified: '2017-10-13T08:08:25.172Z'
-datePublished: '2017-10-13T08:08:26.594Z'
+dateModified: '2017-10-13T09:55:45.658Z'
+datePublished: '2017-10-13T09:55:46.702Z'
 title: BLARG
 author: []
 publisher: {}
@@ -20,14 +20,13 @@ _type: Article
 
 October 12, 2017
 
-Two of my [Land of Nod][0] dinosaur toys made it onto Modern Family! That's Fred the Triceratops and Spike the giant Stegosaurus. How cool is this?! [Ed O'Neill][1] was in the SAME ROOM as MY TOYS. Sadly, these items are sold out as they were designed a few years ago. Maybe if enough of you [contact][2] Nod and ask nicely, they'll bring 'em back! Nothing to lose by trying!! Awfully sorry about the image quality too. Hulu appears very particular about viewers screen grabbing. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4257f007-f147-4595-a212-d7d5e01a56b1.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a27e740-8c18-4aa6-b888-5ab944cc2c8f.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec147ef-fbaf-4838-8e40-7bcd6221344c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65edb593-ecbb-4321-9443-d6c513774d25.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec43b05d-ee3e-4dc3-99b4-4822f90005ac.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d052ad4d-32b2-401b-bd3f-12f493524d9d.png)
+Two of my [Land of Nod][0] dinosaur toys made it onto a recent episode of Modern Family! If you look past [Ed O'Neill][1] to the shelf at the far wall, you'll see my orange triceratops. Just to the right of that is my giant blue stegosaurus on the floor. Al Bundy was in the SAME ROOM as MY TOYS. Sadly, these items are sold out as they were designed a few years ago. Maybe if enough of you [contact][2] Nod and ask nicely, they'll bring 'em back! Nothing to lose by trying!! Awfully sorry about the image quality too. Hulu appears very particular about viewers screen grabbing.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e16d439-ebfd-444f-99d1-0314677322e7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43703923-5522-4438-8b1a-3d85b5d41bcf.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6da7fab-5eba-4bc1-8210-f4c63e134317.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90524880-ae4d-459e-8a68-ea0a35c06517.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f6ed6e3-d9ba-40cd-b362-e7f1d6a3ae75.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f37595a4-7c80-45d5-b91a-63d76c0745ba.png)
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'October 12, 2017'
-dateModified: '2017-10-13T08:03:20.489Z'
-datePublished: '2017-10-13T08:03:21.515Z'
+dateModified: '2017-10-13T08:08:25.172Z'
+datePublished: '2017-10-13T08:08:26.594Z'
 title: BLARG
 author: []
 publisher: {}
@@ -22,7 +22,6 @@ October 12, 2017
 
 Two of my [Land of Nod][0] dinosaur toys made it onto Modern Family! That's Fred the Triceratops and Spike the giant Stegosaurus. How cool is this?! [Ed O'Neill][1] was in the SAME ROOM as MY TOYS. Sadly, these items are sold out as they were designed a few years ago. Maybe if enough of you [contact][2] Nod and ask nicely, they'll bring 'em back! Nothing to lose by trying!! Awfully sorry about the image quality too. Hulu appears very particular about viewers screen grabbing. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4257f007-f147-4595-a212-d7d5e01a56b1.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a27e740-8c18-4aa6-b888-5ab944cc2c8f.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e1503a9-e6f0-41ce-9433-e0c5fdc9898e.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fec147ef-fbaf-4838-8e40-7bcd6221344c.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65edb593-ecbb-4321-9443-d6c513774d25.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec43b05d-ee3e-4dc3-99b4-4822f90005ac.png)
